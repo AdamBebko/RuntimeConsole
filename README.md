@@ -1,8 +1,8 @@
 # RuntimeConsole
 A Console to show debug messages during runtime outside the unity editor
 
-This is some test text That I'm adding blasdhfuishfoajfawoifjwape
+This is The first paragraph.
 
-this is an inbetween paragraph
+this is the second Paragraph.
 
-This is a second paragraph.
+This is the third paragraph.
